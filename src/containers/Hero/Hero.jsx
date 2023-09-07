@@ -1,15 +1,17 @@
-import React, { useState } from 'react'
-// import './../../App.css'
+import React, { useState } from 'react';
+import Slider1 from '../../assets/Images/Hero.png'
+import Slider2 from '../../assets/Images/Hero.png'
+import Slider3 from '../../assets/Images/Banner.png'
 
 const slides = [
   {
-    image: '../../Images/Hero.png'
+    image: Slider1
   },
   {
-    image: '../../Images/Hero.png'
+    image: Slider3
   },
   {
-    image: '../../Images/Banner.png'
+    image: Slider2
   },
 
 ];

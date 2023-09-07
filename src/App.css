@@ -16,7 +16,7 @@ body{
 
 /* Subscribe Banner */
 .bg-banner{
-    background-image: url('/src/Images/Banner.png');
+    background-image: url('/src/assets/Images/Banner.png');
     background-size: cover;
     background-position: center;
     max-width: 100%;
@@ -25,25 +25,25 @@ body{
 
 /* Layout */
 .bg-ImgOne{
-    background-image: url('/src/Images/discount1.png');
+    background-image: url('/src/assets/Images/discount1.png');
     background-size: cover;
     background-position: center;
     height: 520px;
 }
 .bg-ImgTwo{
-    background-image: url('/src/Images/discount2.png');
+    background-image: url('/src/assets/Images/discount2.png');
     background-size: cover;
     background-position: center;
     height: 520px;
 }
 .bg-ImgThree{
-    background-image: url('/src/Images/discount3.png');
+    background-image: url('/src/assets/Images/discount3.png');
     background-size: cover;
     background-position: center;
     height: 252px;
 }
 .bg-ImgFour{
-    background-image: url('/src/Images/discount4.png');
+    background-image: url('/src/assets/Images/discount4.png');
     background-size: cover;
     background-position: center;
     height: 252px;
